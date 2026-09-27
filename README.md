@@ -3,7 +3,7 @@ Emory University · Biology and Data & Decision Sciences, Minor in AI
 
 I'm building machine learning that supports clinicians, starting with medical imaging and electronic health records.
 
-### Current work
+### Current Projects
 - **Breast implant scan identification** at Emory's HITI Lab. Building a multimodal labeling pipeline to flag implant scans in EMBED (3.4M images), where no dedicated method exists and model accuracy on these cases drops.
 - **[Vision-language models for mammography](https://github.com/ksduong/grounded-radiology-vlm).** Reproduced LoRA-tuned Qwen2.5-VL-7B models on VinDr-Mammo and testing an extension that reads the left and right breast together.
 - **STEM advising assistant** at the Emory Center for AI Learning. Building a retrieval-augmented LLM advisor grounded in curated advising data as a proof of concept for an open campus-wide release.
