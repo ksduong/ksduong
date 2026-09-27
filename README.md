@@ -1,5 +1,5 @@
 ## Hi! I'm Katie.
-Emory University '29 · Biology and Data & Decision Sciences, Minor in AI
+Emory University · Biology and Data & Decision Sciences, Minor in AI
 
 I'm building machine learning that supports clinicians, starting with medical imaging and electronic health records.
 
