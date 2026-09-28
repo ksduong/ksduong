@@ -1,7 +1,4 @@
 ## Hi! I'm Katie.
-Emory University · Biology and Data & Decision Sciences, Minor in AI
-
-I'm building machine learning that supports clinicians, starting with medical imaging and electronic health records.
 
 ### Current Projects
 - **Breast implant scan identification** at Emory's HITI Lab. Building a multimodal labeling pipeline to flag implant scans in EMBED (3.4M images), where no dedicated method exists and model accuracy on these cases drops.
